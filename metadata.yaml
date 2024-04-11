@@ -1,0 +1,28 @@
+_repo: Syksya-ja-rakkautta-b-Kertomuksia-Kautisista-ja-Kulhiasta_73361
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Koskimaa, Juho
+    birthdate: 1891
+    deathdate: 1926
+    gutenberg_agent_id: '46158'
+    url: http://www.gutenberg.org/2009/agents/46158
+    wikipedia: https://fi.wikipedia.org/wiki/Juho_Koskimaa
+description: ''
+gutenberg_issued: '2024-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73361'
+language: fi
+pgterms:marc905: 20210524102857koskimaa
+pgterms:marc906: '1925'
+pgterms:marc907: FI
+production_note: Anna Siren and Tapio Riikonen
+publication_note: '  $aJyväskylä :$bK. J. Gummerus Oy, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Syksyä ja rakkautta : $b Kertomuksia Kautisista ja Kulhiasta'
+url: http://www.gutenberg.org/ebooks/73361
